@@ -17,9 +17,9 @@ global.ytname = "YT: Jean-parker-tech"
 global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑. 𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
-global.botname = '🐲𝑻𝑺𝑯_𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫🐲' //name of the bot
+global.ownernumber = '24105083487'  //creator number
+global.ownername = '𝐖𝚵𝐋𝐋'𝐒' //owner name
+global.botname = '🐲𝐖𝚵𝐋𝐋'𝐒_𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫🐲' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'

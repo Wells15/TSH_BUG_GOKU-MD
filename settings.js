@@ -18,8 +18,8 @@ global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
 
 global.ownernumber = '24105083487'  //creator number
-global.ownername = '𝐖𝚵𝐋𝐋'𝐒' //owner name
-global.botname = '🐲𝐖𝚵𝐋𝐋'𝐒_𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫🐲' //name of the bot
+global.ownername = '𝐖𝚵𝐋𝐋𝐒 //owner name
+global.botname = '🐲𝐖𝚵𝐋𝐋𝐒_𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫🐲' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
